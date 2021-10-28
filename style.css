@@ -19,7 +19,7 @@ header{
     align-items: center;
 }
 
-a:visited{
+a, a:visited{
     color: blue;
 }
 
